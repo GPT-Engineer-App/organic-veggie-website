@@ -1,0 +1,6 @@
+
+### Step 4: Create Views
+
+Create views for the home page, about page, contact page, login page, and product CRUD operations.
+
+#### app/Views/home.php

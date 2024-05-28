@@ -1,0 +1,10 @@
+   composer create-project codeigniter4/appstarter organic-vegetables
+   ```
+
+2. **Set Up Environment**: Rename `env` file to `.env` and configure your database settings.
+
+### Step 2: Create Controllers
+
+Create a controller named `Pages` to handle the main pages and another controller named `Products` to handle CRUD operations for organic vegetable products.
+
+#### app/Controllers/Pages.php
